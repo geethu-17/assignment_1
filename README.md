@@ -1,6 +1,6 @@
-# 🌸 Sanjana's Web Portfolio 💻
+#  Geethika's Web Portfolio 💻
 
-Welcome to my personal portfolio website! I'm **Sanjana**, a B.Tech 2nd-year student at **Vignan University**, passionate about technology, design, and learning new things every day 🚀.
+Welcome to my personal portfolio website! I'm **Geethika**, a B.Tech 2nd-year student at **Vignan University**, passionate about technology, design, and learning new things every day 🚀.
 
 ## 📌 Project Overview
 
@@ -16,22 +16,12 @@ The site is built using:
 - **JavaScript**
 - 🎨 Animations and interactive hover effects
 
-## 🖼️ Live Preview
-
-Check out the live site: _[Link to be added if deployed]_
-
 ## 📁 Files Included
 
 - `index.html` – Main structure of the webpage
 - `style.css` – Embedded in HTML (can be externalized if needed)
 - `flag.jpg` – Favicon
 - `mypic1.jpg` – Profile picture (update path if needed)
-
-## 🔗 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/sanjana-priya-darshini-kattamuri-629790217)
-- [CodeChef](https://www.codechef.com/users/sanjana_d07)
-- [GitHub](https://github.com/sanjana71006)
 
 ## 🛠️ How to Use
 
